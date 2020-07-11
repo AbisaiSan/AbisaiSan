@@ -1,16 +1,24 @@
-### Hi there 👋
+### I'm Abisai Santos. Nice to meet you. 👋🏾  🧑🏿‍💻
 
+#### Create websites and mobile apps, I just love what I do.❤️
+
+## About Me
+
+###
+Graduated in Systems Analysis and Development, experience in developing mobile applications and Frontend, designing and maintaining Web applications using HTML, CSS, JS, React JS, React Native and Node structures. 🧑🏿‍💻 📱
+
+### Things I like to do:
+
+🎨 Interfaces
+
+🖥 Web applications
+
+📱 Mobile Applications
+
+### 📫 How to get to me: 
+
+#### https://www.linkedin.com/in/abisai-santos/
 <!--
 **AbisaiSan/AbisaiSan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to get to me: https://www.linkedin.com/in/abisai-santos/
