@@ -14,5 +14,5 @@ Graduated in Systems Analysis and Development, experience in developing mobile a
 
 📱 Mobile Applications
 
-### 📫 How to get to me: https://www.linkedin.com/in/abisai-santos/ e https://abisaisan.github.io/abisaisantos.github.io/
+### 📫 How to get to me: https://www.linkedin.com/in/abisai-santos/ 
 
