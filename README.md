@@ -4,7 +4,7 @@
 
 ## About Me
 
-Graduated in Systems Analysis and Development, experience in developing mobile applications and Frontend, designing and maintaining Web applications using HTML, CSS, JS, React JS, React Native and Node structures. 🧑🏿‍💻 📱
+Graduated in Systems Analysis and Development, experience in developing mobile applications and Frontend, designing and maintaining Web applications using HTML, CSS, JS,Vue.js React JS, React Native and Node structures. 🧑🏿‍💻 📱
 
 ### Things I like to do:
 
