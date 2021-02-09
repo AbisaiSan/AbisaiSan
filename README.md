@@ -3,7 +3,7 @@
 #### Create websites and mobile apps, I just love what I do.❤️
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbisaiSan&layout=compact&count_private=true)](https://github.com/AbisaiSan/github-readme-stats)
-[![GitHub status](https://github-readme-stats.vercel.app/api?username=AbisaiSan&count_private=true&hide=stars,commits,prs,issues,contribs)](https://github.com/AbisaiSan/github-readme-stats)
+[![GitHub status](https://github-readme-stats.vercel.app/api?username=AbisaiSan&count_private=true&hide=commits,prs,issues,contribs)](https://github.com/AbisaiSan/github-readme-stats)
 
 ## About Me
 
